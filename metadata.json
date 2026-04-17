@@ -1,0 +1,5 @@
+{
+  "name": "Remix: SecureOpsAI - DevSecOps Dashboard",
+  "description": "An agentic AI framework for security automation, providing code scanning, dependency analysis, and AI-driven vulnerability mitigation suggestions.",
+  "requestFramePermissions": []
+}
